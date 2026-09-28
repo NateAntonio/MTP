@@ -1,4 +1,4 @@
-package Projects.Factory_Method;
+package Assignments.Factory_Method;
 public class Main {
     public static void main(String[] args) {
         MobileForm mobileForm = new MobileForm();

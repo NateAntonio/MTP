@@ -1,4 +1,4 @@
-package Projects.Singleton;
+package Assignments.Singleton;
 
 public class InterfaceConfiguration {
     private static InterfaceConfiguration instance;
